@@ -1,22 +1,24 @@
 # Books-list
 
-> novel
+## novel
 
 - Sherlock home
 
-> cartoon
+## cartoon
 
 - Jujutsu kaisen 0
--
 
-> psychology
+## psychology
 - กล้าที่จะถูกเกลียด 1, 2
+- นี่เราทำงานหนักไปรึปล่่าว
+- คิดแบบยิว ทำแบบญี่ปุ่น
+- คนฉลาดจะไม่พ่ายแพ้ต่ออารมณ์
 
-> programming
+## programming
 - C++
 - Algorithm
 - Python
 - Ai:Machine Learning with python
 
->about investment
+## about investment
 - Bitcoin standard
