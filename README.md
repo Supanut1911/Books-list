@@ -7,6 +7,7 @@
 ## cartoon
 
 - Jujutsu kaisen 0
+- Berserk
 
 ## psychology
 - กล้าที่จะถูกเกลียด 1, 2
@@ -22,3 +23,7 @@
 
 ## about investment
 - Bitcoin standard
+
+## pending
+- คนเก่งจะไม่พ่ายแพ้ต่ออารมณ์
+- ศิลปะการอยู่ร่วมกับคนเฮงซวย
