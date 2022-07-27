@@ -7,7 +7,7 @@
 ## cartoon
 
 - Jujutsu kaisen 0
-- Berserk
+- Berserk ep1
 
 ## psychology
 - กล้าที่จะถูกเกลียด 1, 2
