@@ -8,6 +8,8 @@
 
 - Jujutsu kaisen 0
 - Berserk ep1
+- One piece ep 90
+- One piece ep 91
 
 ## psychology
 - กล้าที่จะถูกเกลียด 1, 2
