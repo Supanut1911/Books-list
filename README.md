@@ -6,10 +6,10 @@
 
 ## cartoon
 
-- Jujutsu kaisen 0
-- Berserk ep1
-- One piece ep 90
-- One piece ep 91
+- Jujutsu kaisen
+- Berserk
+- One piece
+- Kaiju
 
 ## psychology
 - กล้าที่จะถูกเกลียด 1, 2
@@ -22,7 +22,7 @@
 - Algorithm
 - Python
 - Ai:Machine Learning with python
-
+- DevOps
 ## about investment
 - Bitcoin standard
 
